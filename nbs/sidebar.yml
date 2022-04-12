@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - fm.ipynb
+      - no_fm.ipynb
+      - index.ipynb
