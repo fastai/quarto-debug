@@ -1,5 +1,5 @@
 install:
-	python -m pip install git+https://github.com/fastai/nbprocess.git@fm-2
+	python -m pip install git+https://github.com/fastai/nbprocess.git
 
 serve:
 	cd nbs && quarto preview
